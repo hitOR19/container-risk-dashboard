@@ -58,18 +58,6 @@ col3.metric(
     "Average Risk Score",
     round(filtered_df["Risk_Score"].mean(),2)
 )
-#------------------------
-# High Risk Alert Panel
-#------------------------
-st.subheader("🚨 High Risk Alerts")
-
-critical = filtered_df[filtered_df["Risk_Level"]=="Critical"]
-
-if len(critical) > 0:
-    st.error(f"{len(critical)} critical containers detected!")
-else:
-    st.success("No critical containers detected")
-
 # -----------------------------
 # Risk Distribution Chart
 # -----------------------------
@@ -155,6 +143,7 @@ if container_id:
 st.subheader("All Container Records")
 
 st.dataframe(filtered_df)
+
 
 
 
