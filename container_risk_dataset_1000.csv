@@ -1,0 +1,1001 @@
+Container_ID,Risk_Score,Risk_Level,Origin_Country,Destination_Port,Weight_Difference,Dwell_Time_Hours,Explanation_Summary
+C10000,45.23,Low,UAE,Nhava Sheva,3174,5,Large weight mismatch
+C10001,64.36,Low,UAE,Mumbai,3507,33,Large weight mismatch
+C10002,52.64,Low,Singapore,Mundra,860,65,Long port dwell time
+C10003,73.16,Critical,India,Kolkata,1294,18,Normal container pattern
+C10004,8.16,Low,Japan,Mumbai,1130,49,Long port dwell time
+C10005,6.04,Low,Singapore,Mundra,1095,11,Normal container pattern
+C10006,24.71,Low,China,Kolkata,3772,26,Large weight mismatch
+C10007,15.95,Low,Germany,Chennai,3092,63,"Large weight mismatch, Long port dwell time"
+C10008,87.18,Critical,UAE,Mundra,1638,59,Long port dwell time
+C10009,21.92,Low,Germany,Nhava Sheva,2169,27,Normal container pattern
+C10010,97.59,Critical,Singapore,Mumbai,466,49,Long port dwell time
+C10011,33.69,Low,Singapore,Mundra,1238,77,Long port dwell time
+C10012,18.21,Low,Singapore,Mundra,330,33,Normal container pattern
+C10013,78.97,Critical,Germany,Nhava Sheva,1482,1,Normal container pattern
+C10014,65.87,Low,Singapore,Kolkata,2135,21,Normal container pattern
+C10015,49.82,Low,China,Chennai,3444,55,"Large weight mismatch, Long port dwell time"
+C10016,55.54,Low,Singapore,Nhava Sheva,3171,6,Large weight mismatch
+C10017,71.92,Critical,USA,Chennai,2919,69,"Large weight mismatch, Long port dwell time"
+C10018,22.85,Low,India,Kolkata,3735,5,Large weight mismatch
+C10019,99.63,Critical,Germany,Mundra,130,3,Normal container pattern
+C10020,97.48,Critical,USA,Chennai,1685,53,Long port dwell time
+C10021,65.03,Low,Singapore,Mumbai,3380,23,Large weight mismatch
+C10022,19.95,Low,China,Mumbai,769,53,Long port dwell time
+C10023,68.02,Low,UAE,Nhava Sheva,2391,37,Normal container pattern
+C10024,7.22,Low,Japan,Kolkata,1515,74,Long port dwell time
+C10025,3.07,Low,India,Nhava Sheva,3485,74,"Large weight mismatch, Long port dwell time"
+C10026,25.77,Low,Japan,Nhava Sheva,2853,17,Large weight mismatch
+C10027,46.26,Low,Singapore,Nhava Sheva,2433,78,Long port dwell time
+C10028,86.83,Critical,India,Mumbai,1215,73,Long port dwell time
+C10029,72.72,Critical,India,Mumbai,955,1,Normal container pattern
+C10030,74.27,Critical,China,Nhava Sheva,2324,51,Long port dwell time
+C10031,42.55,Low,India,Mumbai,1184,45,Normal container pattern
+C10032,34.59,Low,Germany,Kolkata,459,77,Long port dwell time
+C10033,37.1,Low,USA,Nhava Sheva,3385,4,Large weight mismatch
+C10034,98.76,Critical,USA,Mumbai,21,62,Long port dwell time
+C10035,4.01,Low,USA,Chennai,2300,65,Long port dwell time
+C10036,86.7,Critical,Germany,Nhava Sheva,747,32,Normal container pattern
+C10037,57.87,Low,Japan,Nhava Sheva,2904,34,Large weight mismatch
+C10038,43.86,Low,China,Kolkata,3632,72,"Large weight mismatch, Long port dwell time"
+C10039,72.53,Critical,India,Mundra,474,39,Normal container pattern
+C10040,48.67,Low,Germany,Mundra,1082,26,Normal container pattern
+C10041,87.34,Critical,USA,Kolkata,2558,34,Large weight mismatch
+C10042,90.07,Critical,Singapore,Kolkata,3753,54,"Large weight mismatch, Long port dwell time"
+C10043,42.17,Low,UAE,Kolkata,2047,3,Normal container pattern
+C10044,27.68,Low,India,Mundra,3547,50,"Large weight mismatch, Long port dwell time"
+C10045,59.24,Low,Germany,Kolkata,2747,12,Large weight mismatch
+C10046,91.24,Critical,Germany,Mumbai,975,65,Long port dwell time
+C10047,21.07,Low,China,Nhava Sheva,1806,54,Long port dwell time
+C10048,62.3,Low,China,Nhava Sheva,189,5,Normal container pattern
+C10049,63.16,Low,Germany,Chennai,3005,57,"Large weight mismatch, Long port dwell time"
+C10050,73.31,Critical,USA,Chennai,2734,17,Large weight mismatch
+C10051,13.16,Low,UAE,Nhava Sheva,3005,47,Large weight mismatch
+C10052,71.58,Critical,India,Mumbai,562,23,Normal container pattern
+C10053,90.9,Critical,China,Mundra,1899,79,Long port dwell time
+C10054,17.97,Low,India,Mundra,3638,14,Large weight mismatch
+C10055,23.75,Low,USA,Mumbai,1267,66,Long port dwell time
+C10056,97.14,Critical,India,Mundra,2879,75,"Large weight mismatch, Long port dwell time"
+C10057,18.1,Low,Singapore,Kolkata,1528,51,Long port dwell time
+C10058,85.44,Critical,China,Nhava Sheva,3202,38,Large weight mismatch
+C10059,49.23,Low,USA,Nhava Sheva,3556,64,"Large weight mismatch, Long port dwell time"
+C10060,24.72,Low,USA,Mumbai,3890,38,Large weight mismatch
+C10061,87.07,Critical,UAE,Mundra,646,50,Long port dwell time
+C10062,44.53,Low,UAE,Chennai,2068,30,Normal container pattern
+C10063,51.48,Low,Singapore,Chennai,2888,79,"Large weight mismatch, Long port dwell time"
+C10064,35.92,Low,USA,Mundra,2214,51,Long port dwell time
+C10065,59.3,Low,Japan,Chennai,1297,63,Long port dwell time
+C10066,16.35,Low,USA,Mumbai,2435,52,Long port dwell time
+C10067,39.11,Low,UAE,Mumbai,600,38,Normal container pattern
+C10068,96.94,Critical,Japan,Mundra,2363,79,Long port dwell time
+C10069,25.81,Low,China,Chennai,2061,30,Normal container pattern
+C10070,65.67,Low,China,Mumbai,241,51,Long port dwell time
+C10071,32.52,Low,India,Mumbai,2041,5,Normal container pattern
+C10072,77.35,Critical,Germany,Kolkata,2824,29,Large weight mismatch
+C10073,13.09,Low,UAE,Kolkata,3417,4,Large weight mismatch
+C10074,96.98,Critical,Germany,Mumbai,2612,10,Large weight mismatch
+C10075,45.38,Low,Japan,Mundra,2945,56,"Large weight mismatch, Long port dwell time"
+C10076,23.61,Low,UAE,Nhava Sheva,1363,17,Normal container pattern
+C10077,7.35,Low,Singapore,Nhava Sheva,2139,74,Long port dwell time
+C10078,16.98,Low,USA,Mumbai,1390,17,Normal container pattern
+C10079,51.98,Low,Singapore,Mumbai,3003,69,"Large weight mismatch, Long port dwell time"
+C10080,33.7,Low,Japan,Mumbai,1478,34,Normal container pattern
+C10081,82.89,Critical,UAE,Mundra,3499,6,Large weight mismatch
+C10082,43.09,Low,Japan,Kolkata,2556,53,"Large weight mismatch, Long port dwell time"
+C10083,24.87,Low,USA,Mumbai,775,66,Long port dwell time
+C10084,61.71,Low,China,Mumbai,34,77,Long port dwell time
+C10085,70.68,Critical,China,Chennai,2253,43,Normal container pattern
+C10086,16.7,Low,Japan,Mundra,3152,75,"Large weight mismatch, Long port dwell time"
+C10087,16.76,Low,Germany,Mumbai,1955,23,Normal container pattern
+C10088,3.67,Low,UAE,Chennai,1585,55,Long port dwell time
+C10089,73.64,Critical,UAE,Nhava Sheva,3943,75,"Large weight mismatch, Long port dwell time"
+C10090,66.38,Low,China,Mumbai,3459,16,Large weight mismatch
+C10091,47.46,Low,India,Mumbai,3073,8,Large weight mismatch
+C10092,84.42,Critical,Singapore,Chennai,1021,4,Normal container pattern
+C10093,80.57,Critical,India,Mundra,3461,4,Large weight mismatch
+C10094,58.54,Low,USA,Mumbai,2613,56,"Large weight mismatch, Long port dwell time"
+C10095,86.83,Critical,Singapore,Nhava Sheva,1129,25,Normal container pattern
+C10096,20.58,Low,Singapore,Mumbai,3843,67,"Large weight mismatch, Long port dwell time"
+C10097,11.19,Low,Japan,Nhava Sheva,3893,67,"Large weight mismatch, Long port dwell time"
+C10098,26.97,Low,China,Kolkata,1500,27,Normal container pattern
+C10099,5.71,Low,India,Kolkata,702,32,Normal container pattern
+C10100,53.12,Low,India,Nhava Sheva,2449,50,Long port dwell time
+C10101,93.66,Critical,China,Mundra,2777,61,"Large weight mismatch, Long port dwell time"
+C10102,3.93,Low,India,Mumbai,1579,51,Long port dwell time
+C10103,12.21,Low,China,Mumbai,161,19,Normal container pattern
+C10104,45.22,Low,Japan,Kolkata,201,21,Normal container pattern
+C10105,93.39,Critical,Germany,Nhava Sheva,1981,5,Normal container pattern
+C10106,31.62,Low,Singapore,Mumbai,995,42,Normal container pattern
+C10107,50.72,Low,Japan,Mumbai,2317,61,Long port dwell time
+C10108,4.16,Low,UAE,Mundra,3934,22,Large weight mismatch
+C10109,14.83,Low,USA,Chennai,815,21,Normal container pattern
+C10110,98.66,Critical,Germany,Kolkata,3342,70,"Large weight mismatch, Long port dwell time"
+C10111,96.51,Critical,UAE,Kolkata,455,1,Normal container pattern
+C10112,0.49,Low,Singapore,Chennai,3533,5,Large weight mismatch
+C10113,95.18,Critical,India,Mumbai,3798,12,Large weight mismatch
+C10114,63.91,Low,China,Mundra,1275,46,Normal container pattern
+C10115,86.79,Critical,Singapore,Mundra,1016,34,Normal container pattern
+C10116,45.47,Low,Japan,Kolkata,3773,49,"Large weight mismatch, Long port dwell time"
+C10117,51.56,Low,USA,Mundra,2343,78,Long port dwell time
+C10118,48.88,Low,Japan,Chennai,3796,45,Large weight mismatch
+C10119,66.69,Low,Germany,Mumbai,2767,27,Large weight mismatch
+C10120,13.97,Low,Germany,Chennai,3820,73,"Large weight mismatch, Long port dwell time"
+C10121,3.0,Low,USA,Nhava Sheva,337,26,Normal container pattern
+C10122,30.79,Low,UAE,Kolkata,878,47,Normal container pattern
+C10123,70.47,Critical,UAE,Mundra,1076,56,Long port dwell time
+C10124,20.19,Low,Germany,Nhava Sheva,791,63,Long port dwell time
+C10125,67.34,Low,Germany,Mundra,3993,48,Large weight mismatch
+C10126,96.99,Critical,India,Mumbai,2264,61,Long port dwell time
+C10127,9.39,Low,China,Mumbai,763,26,Normal container pattern
+C10128,67.26,Low,India,Mumbai,2235,36,Normal container pattern
+C10129,44.38,Low,India,Mundra,379,1,Normal container pattern
+C10130,86.81,Critical,UAE,Nhava Sheva,492,8,Normal container pattern
+C10131,17.71,Low,USA,Mumbai,3112,52,"Large weight mismatch, Long port dwell time"
+C10132,69.26,Low,UAE,Nhava Sheva,1180,79,Long port dwell time
+C10133,83.81,Critical,China,Mundra,2062,47,Normal container pattern
+C10134,94.46,Critical,Japan,Nhava Sheva,3884,56,"Large weight mismatch, Long port dwell time"
+C10135,68.32,Low,Germany,Mundra,64,14,Normal container pattern
+C10136,49.72,Low,Germany,Mundra,3928,28,Large weight mismatch
+C10137,61.78,Low,China,Kolkata,3910,78,"Large weight mismatch, Long port dwell time"
+C10138,86.89,Critical,India,Mundra,2568,2,Large weight mismatch
+C10139,57.06,Low,USA,Mundra,1367,26,Normal container pattern
+C10140,3.04,Low,Germany,Chennai,1152,14,Normal container pattern
+C10141,93.09,Critical,Singapore,Mumbai,2027,59,Long port dwell time
+C10142,68.95,Low,India,Kolkata,2695,56,"Large weight mismatch, Long port dwell time"
+C10143,67.65,Low,Germany,Kolkata,1495,7,Normal container pattern
+C10144,21.57,Low,Singapore,Kolkata,3134,3,Large weight mismatch
+C10145,65.89,Low,China,Chennai,1162,23,Normal container pattern
+C10146,39.39,Low,China,Mundra,1522,18,Normal container pattern
+C10147,65.12,Low,India,Mumbai,2640,38,Large weight mismatch
+C10148,10.66,Low,Germany,Nhava Sheva,391,15,Normal container pattern
+C10149,65.78,Low,UAE,Mundra,1698,64,Long port dwell time
+C10150,99.94,Critical,Singapore,Chennai,418,28,Normal container pattern
+C10151,4.82,Low,USA,Mundra,2336,74,Long port dwell time
+C10152,97.72,Critical,Germany,Mundra,378,39,Normal container pattern
+C10153,40.69,Low,USA,Chennai,1796,57,Long port dwell time
+C10154,87.08,Critical,Germany,Kolkata,3561,17,Large weight mismatch
+C10155,78.24,Critical,UAE,Kolkata,2278,44,Normal container pattern
+C10156,56.7,Low,UAE,Mumbai,3065,25,Large weight mismatch
+C10157,73.84,Critical,India,Mumbai,2088,17,Normal container pattern
+C10158,87.85,Critical,India,Kolkata,3099,13,Large weight mismatch
+C10159,40.41,Low,UAE,Nhava Sheva,2182,25,Normal container pattern
+C10160,32.7,Low,Japan,Mundra,200,68,Long port dwell time
+C10161,66.76,Low,UAE,Nhava Sheva,1863,10,Normal container pattern
+C10162,80.78,Critical,China,Mundra,779,67,Long port dwell time
+C10163,76.23,Critical,China,Kolkata,2977,18,Large weight mismatch
+C10164,79.78,Critical,Japan,Mumbai,3104,34,Large weight mismatch
+C10165,43.56,Low,Singapore,Mumbai,3119,8,Large weight mismatch
+C10166,81.78,Critical,USA,Nhava Sheva,502,40,Normal container pattern
+C10167,12.02,Low,Germany,Mumbai,2454,42,Normal container pattern
+C10168,54.45,Low,Germany,Kolkata,3645,41,Large weight mismatch
+C10169,0.58,Low,Japan,Nhava Sheva,1751,6,Normal container pattern
+C10170,32.46,Low,China,Mundra,804,52,Long port dwell time
+C10171,36.65,Low,India,Mumbai,2146,26,Normal container pattern
+C10172,39.62,Low,Germany,Chennai,2731,64,"Large weight mismatch, Long port dwell time"
+C10173,69.55,Low,China,Mumbai,1895,59,Long port dwell time
+C10174,38.86,Low,Singapore,Mundra,2773,56,"Large weight mismatch, Long port dwell time"
+C10175,44.87,Low,USA,Nhava Sheva,1570,59,Long port dwell time
+C10176,23.75,Low,Singapore,Mundra,960,70,Long port dwell time
+C10177,37.33,Low,Japan,Chennai,3810,33,Large weight mismatch
+C10178,22.73,Low,UAE,Kolkata,2660,53,"Large weight mismatch, Long port dwell time"
+C10179,7.32,Low,UAE,Mumbai,1485,22,Normal container pattern
+C10180,60.34,Low,UAE,Nhava Sheva,2690,21,Large weight mismatch
+C10181,66.82,Low,Singapore,Kolkata,3840,70,"Large weight mismatch, Long port dwell time"
+C10182,61.95,Low,Germany,Mundra,1028,70,Long port dwell time
+C10183,46.35,Low,USA,Nhava Sheva,3289,4,Large weight mismatch
+C10184,37.98,Low,UAE,Kolkata,502,75,Long port dwell time
+C10185,86.33,Critical,Japan,Nhava Sheva,2814,62,"Large weight mismatch, Long port dwell time"
+C10186,51.91,Low,Japan,Chennai,397,62,Long port dwell time
+C10187,47.92,Low,UAE,Chennai,870,24,Normal container pattern
+C10188,2.56,Low,UAE,Mumbai,2842,55,"Large weight mismatch, Long port dwell time"
+C10189,34.12,Low,USA,Mumbai,392,9,Normal container pattern
+C10190,38.02,Low,UAE,Chennai,206,3,Normal container pattern
+C10191,39.88,Low,USA,Nhava Sheva,1038,31,Normal container pattern
+C10192,58.02,Low,Japan,Chennai,1881,40,Normal container pattern
+C10193,53.36,Low,UAE,Mumbai,3625,36,Large weight mismatch
+C10194,60.79,Low,Singapore,Chennai,2939,24,Large weight mismatch
+C10195,76.49,Critical,India,Chennai,1484,6,Normal container pattern
+C10196,81.3,Critical,Singapore,Nhava Sheva,3762,66,"Large weight mismatch, Long port dwell time"
+C10197,71.81,Critical,Japan,Kolkata,3646,75,"Large weight mismatch, Long port dwell time"
+C10198,95.55,Critical,USA,Mumbai,863,4,Normal container pattern
+C10199,1.82,Low,Singapore,Nhava Sheva,2790,79,"Large weight mismatch, Long port dwell time"
+C10200,19.58,Low,USA,Chennai,3312,6,Large weight mismatch
+C10201,0.76,Low,Singapore,Chennai,563,51,Long port dwell time
+C10202,64.75,Low,Singapore,Kolkata,1020,62,Long port dwell time
+C10203,89.8,Critical,USA,Mumbai,95,57,Long port dwell time
+C10204,24.35,Low,Germany,Mumbai,1923,66,Long port dwell time
+C10205,92.7,Critical,Singapore,Mundra,1757,79,Long port dwell time
+C10206,6.03,Low,UAE,Mumbai,2532,75,"Large weight mismatch, Long port dwell time"
+C10207,93.44,Critical,India,Kolkata,3478,8,Large weight mismatch
+C10208,35.16,Low,Japan,Mundra,2278,26,Normal container pattern
+C10209,10.14,Low,Germany,Mundra,2796,51,"Large weight mismatch, Long port dwell time"
+C10210,48.59,Low,USA,Chennai,1678,45,Normal container pattern
+C10211,25.68,Low,Germany,Chennai,3242,44,Large weight mismatch
+C10212,28.49,Low,China,Mumbai,540,5,Normal container pattern
+C10213,30.73,Low,China,Mundra,1059,70,Long port dwell time
+C10214,80.3,Critical,Singapore,Chennai,2572,26,Large weight mismatch
+C10215,53.92,Low,Singapore,Kolkata,1183,68,Long port dwell time
+C10216,31.13,Low,UAE,Chennai,3910,19,Large weight mismatch
+C10217,61.03,Low,India,Chennai,1722,20,Normal container pattern
+C10218,71.62,Critical,Japan,Mundra,3314,12,Large weight mismatch
+C10219,27.26,Low,Germany,Mundra,3157,47,Large weight mismatch
+C10220,41.35,Low,China,Nhava Sheva,1819,1,Normal container pattern
+C10221,12.19,Low,Singapore,Kolkata,2625,14,Large weight mismatch
+C10222,18.11,Low,Japan,Mundra,2729,64,"Large weight mismatch, Long port dwell time"
+C10223,68.11,Low,Germany,Mumbai,2604,38,Large weight mismatch
+C10224,18.14,Low,Singapore,Kolkata,1597,37,Normal container pattern
+C10225,52.52,Low,Singapore,Kolkata,3060,11,Large weight mismatch
+C10226,70.9,Critical,China,Mundra,2693,77,"Large weight mismatch, Long port dwell time"
+C10227,10.69,Low,China,Kolkata,795,3,Normal container pattern
+C10228,56.73,Low,Singapore,Mundra,1051,33,Normal container pattern
+C10229,25.66,Low,USA,Chennai,1643,6,Normal container pattern
+C10230,96.29,Critical,Singapore,Nhava Sheva,3627,50,"Large weight mismatch, Long port dwell time"
+C10231,48.35,Low,Japan,Chennai,1363,10,Normal container pattern
+C10232,80.6,Critical,Singapore,Mundra,3869,5,Large weight mismatch
+C10233,55.02,Low,UAE,Mundra,1981,23,Normal container pattern
+C10234,4.34,Low,India,Chennai,1354,10,Normal container pattern
+C10235,63.32,Low,UAE,Mumbai,1663,44,Normal container pattern
+C10236,95.14,Critical,UAE,Mumbai,1529,2,Normal container pattern
+C10237,60.16,Low,USA,Mumbai,2038,13,Normal container pattern
+C10238,81.92,Critical,USA,Mundra,3419,40,Large weight mismatch
+C10239,88.42,Critical,Singapore,Kolkata,1496,2,Normal container pattern
+C10240,22.81,Low,UAE,Mundra,3302,65,"Large weight mismatch, Long port dwell time"
+C10241,21.2,Low,USA,Kolkata,2237,63,Long port dwell time
+C10242,61.1,Low,China,Chennai,3296,73,"Large weight mismatch, Long port dwell time"
+C10243,41.1,Low,Singapore,Nhava Sheva,1408,17,Normal container pattern
+C10244,83.99,Critical,Japan,Kolkata,1400,9,Normal container pattern
+C10245,90.0,Critical,India,Mumbai,1306,75,Long port dwell time
+C10246,35.34,Low,Germany,Mundra,2680,15,Large weight mismatch
+C10247,23.69,Low,Singapore,Chennai,2675,24,Large weight mismatch
+C10248,78.05,Critical,Germany,Mumbai,972,38,Normal container pattern
+C10249,27.48,Low,UAE,Chennai,1768,35,Normal container pattern
+C10250,82.26,Critical,India,Nhava Sheva,1282,49,Long port dwell time
+C10251,42.37,Low,Germany,Mundra,3430,69,"Large weight mismatch, Long port dwell time"
+C10252,66.75,Low,UAE,Mundra,709,62,Long port dwell time
+C10253,9.55,Low,China,Nhava Sheva,1479,60,Long port dwell time
+C10254,62.39,Low,Germany,Mundra,1434,50,Long port dwell time
+C10255,45.18,Low,India,Kolkata,648,78,Long port dwell time
+C10256,58.66,Low,Singapore,Chennai,317,75,Long port dwell time
+C10257,16.8,Low,UAE,Mumbai,3748,9,Large weight mismatch
+C10258,73.69,Critical,Singapore,Nhava Sheva,3296,34,Large weight mismatch
+C10259,86.28,Critical,India,Kolkata,3890,76,"Large weight mismatch, Long port dwell time"
+C10260,21.67,Low,USA,Mumbai,1257,35,Normal container pattern
+C10261,9.57,Low,UAE,Mumbai,683,1,Normal container pattern
+C10262,2.36,Low,Germany,Nhava Sheva,663,40,Normal container pattern
+C10263,64.2,Low,UAE,Kolkata,1998,64,Long port dwell time
+C10264,60.71,Low,Singapore,Mumbai,3898,22,Large weight mismatch
+C10265,54.67,Low,China,Mumbai,3445,60,"Large weight mismatch, Long port dwell time"
+C10266,23.19,Low,UAE,Kolkata,3743,64,"Large weight mismatch, Long port dwell time"
+C10267,39.09,Low,Germany,Mundra,1631,72,Long port dwell time
+C10268,59.45,Low,USA,Mumbai,1495,11,Normal container pattern
+C10269,49.68,Low,Japan,Chennai,3304,14,Large weight mismatch
+C10270,98.78,Critical,China,Kolkata,3763,60,"Large weight mismatch, Long port dwell time"
+C10271,13.64,Low,USA,Mumbai,1136,30,Normal container pattern
+C10272,69.51,Low,UAE,Nhava Sheva,1853,35,Normal container pattern
+C10273,40.43,Low,Singapore,Chennai,1520,37,Normal container pattern
+C10274,42.82,Low,India,Mumbai,2489,5,Normal container pattern
+C10275,71.76,Critical,Singapore,Chennai,563,78,Long port dwell time
+C10276,69.24,Low,Germany,Chennai,1291,26,Normal container pattern
+C10277,99.13,Critical,Singapore,Mundra,3581,62,"Large weight mismatch, Long port dwell time"
+C10278,12.84,Low,China,Chennai,3878,4,Large weight mismatch
+C10279,10.41,Low,Singapore,Mundra,3457,42,Large weight mismatch
+C10280,72.43,Critical,Germany,Kolkata,3458,18,Large weight mismatch
+C10281,57.84,Low,Japan,Mundra,3184,40,Large weight mismatch
+C10282,27.42,Low,UAE,Nhava Sheva,1636,72,Long port dwell time
+C10283,7.94,Low,India,Mumbai,3696,39,Large weight mismatch
+C10284,8.57,Low,UAE,Kolkata,2999,14,Large weight mismatch
+C10285,89.42,Critical,Singapore,Kolkata,3152,32,Large weight mismatch
+C10286,19.19,Low,USA,Nhava Sheva,698,51,Long port dwell time
+C10287,32.34,Low,UAE,Mundra,2160,38,Normal container pattern
+C10288,22.67,Low,Japan,Mumbai,1,23,Normal container pattern
+C10289,35.5,Low,Singapore,Mundra,641,63,Long port dwell time
+C10290,6.94,Low,India,Chennai,2267,15,Normal container pattern
+C10291,51.91,Low,Germany,Mundra,1589,25,Normal container pattern
+C10292,6.76,Low,Japan,Kolkata,854,17,Normal container pattern
+C10293,80.04,Critical,Singapore,Mumbai,1759,66,Long port dwell time
+C10294,23.37,Low,Japan,Mundra,3296,78,"Large weight mismatch, Long port dwell time"
+C10295,54.0,Low,UAE,Mumbai,2432,53,Long port dwell time
+C10296,88.01,Critical,India,Mumbai,3474,51,"Large weight mismatch, Long port dwell time"
+C10297,65.09,Low,Germany,Chennai,1661,39,Normal container pattern
+C10298,53.3,Low,Singapore,Chennai,1153,51,Long port dwell time
+C10299,32.43,Low,China,Kolkata,1076,70,Long port dwell time
+C10300,33.3,Low,Germany,Nhava Sheva,1707,6,Normal container pattern
+C10301,66.95,Low,China,Mumbai,2777,67,"Large weight mismatch, Long port dwell time"
+C10302,99.41,Critical,Japan,Nhava Sheva,1695,7,Normal container pattern
+C10303,66.18,Low,USA,Kolkata,1733,51,Long port dwell time
+C10304,55.78,Low,Germany,Mumbai,1439,72,Long port dwell time
+C10305,73.07,Critical,Japan,Mumbai,2294,42,Normal container pattern
+C10306,46.52,Low,China,Nhava Sheva,835,64,Long port dwell time
+C10307,6.01,Low,UAE,Mundra,3510,15,Large weight mismatch
+C10308,56.23,Low,UAE,Chennai,202,29,Normal container pattern
+C10309,95.76,Critical,USA,Mundra,3255,33,Large weight mismatch
+C10310,17.53,Low,Germany,Nhava Sheva,122,27,Normal container pattern
+C10311,69.0,Low,Germany,Chennai,400,36,Normal container pattern
+C10312,20.09,Low,Germany,Mundra,766,29,Normal container pattern
+C10313,53.58,Low,Japan,Chennai,293,38,Normal container pattern
+C10314,9.67,Low,India,Mumbai,2327,57,Long port dwell time
+C10315,45.04,Low,India,Mundra,3908,27,Large weight mismatch
+C10316,75.62,Critical,USA,Chennai,2931,55,"Large weight mismatch, Long port dwell time"
+C10317,34.76,Low,Germany,Chennai,3681,33,Large weight mismatch
+C10318,66.49,Low,Japan,Chennai,197,68,Long port dwell time
+C10319,79.54,Critical,UAE,Mundra,3029,66,"Large weight mismatch, Long port dwell time"
+C10320,92.72,Critical,China,Kolkata,1930,10,Normal container pattern
+C10321,23.46,Low,Japan,Mundra,3582,5,Large weight mismatch
+C10322,39.93,Low,India,Nhava Sheva,2799,74,"Large weight mismatch, Long port dwell time"
+C10323,15.24,Low,India,Mundra,2191,38,Normal container pattern
+C10324,99.25,Critical,UAE,Chennai,608,13,Normal container pattern
+C10325,92.7,Critical,UAE,Mumbai,3272,31,Large weight mismatch
+C10326,54.0,Low,China,Mundra,1147,47,Normal container pattern
+C10327,84.2,Critical,UAE,Mundra,186,52,Long port dwell time
+C10328,52.1,Low,USA,Chennai,3397,56,"Large weight mismatch, Long port dwell time"
+C10329,62.36,Low,China,Mumbai,2511,15,Large weight mismatch
+C10330,8.91,Low,UAE,Mumbai,3420,29,Large weight mismatch
+C10331,75.53,Critical,Singapore,Nhava Sheva,1794,8,Normal container pattern
+C10332,12.77,Low,Japan,Mundra,659,5,Normal container pattern
+C10333,82.61,Critical,UAE,Mumbai,2811,29,Large weight mismatch
+C10334,78.2,Critical,USA,Mumbai,3002,47,Large weight mismatch
+C10335,70.87,Critical,Germany,Kolkata,1955,68,Long port dwell time
+C10336,3.62,Low,UAE,Kolkata,2450,76,Long port dwell time
+C10337,30.31,Low,India,Mumbai,1369,45,Normal container pattern
+C10338,26.31,Low,India,Nhava Sheva,1986,2,Normal container pattern
+C10339,36.01,Low,India,Mumbai,1534,27,Normal container pattern
+C10340,8.76,Low,Germany,Chennai,146,36,Normal container pattern
+C10341,93.7,Critical,India,Mundra,3219,36,Large weight mismatch
+C10342,55.38,Low,Singapore,Nhava Sheva,2911,26,Large weight mismatch
+C10343,30.55,Low,UAE,Chennai,1734,43,Normal container pattern
+C10344,39.7,Low,India,Nhava Sheva,1843,27,Normal container pattern
+C10345,44.72,Low,China,Chennai,488,69,Long port dwell time
+C10346,60.06,Low,Germany,Mundra,2976,20,Large weight mismatch
+C10347,51.57,Low,Singapore,Mundra,1959,11,Normal container pattern
+C10348,91.94,Critical,China,Kolkata,1663,74,Long port dwell time
+C10349,49.7,Low,China,Chennai,2598,38,Large weight mismatch
+C10350,99.22,Critical,China,Kolkata,2385,6,Normal container pattern
+C10351,85.14,Critical,China,Chennai,2919,72,"Large weight mismatch, Long port dwell time"
+C10352,20.85,Low,UAE,Kolkata,640,23,Normal container pattern
+C10353,93.06,Critical,India,Mundra,1802,47,Normal container pattern
+C10354,11.64,Low,Japan,Nhava Sheva,2520,46,Large weight mismatch
+C10355,81.74,Critical,UAE,Kolkata,1969,12,Normal container pattern
+C10356,38.06,Low,UAE,Chennai,2198,13,Normal container pattern
+C10357,87.8,Critical,Singapore,Chennai,1438,62,Long port dwell time
+C10358,86.81,Critical,Singapore,Mundra,3369,60,"Large weight mismatch, Long port dwell time"
+C10359,80.59,Critical,India,Chennai,1634,43,Normal container pattern
+C10360,79.0,Critical,Japan,Mumbai,262,76,Long port dwell time
+C10361,30.47,Low,Singapore,Nhava Sheva,1787,68,Long port dwell time
+C10362,8.09,Low,India,Kolkata,2191,5,Normal container pattern
+C10363,40.3,Low,India,Nhava Sheva,2393,37,Normal container pattern
+C10364,17.35,Low,USA,Mundra,623,72,Long port dwell time
+C10365,69.5,Low,Japan,Kolkata,1016,31,Normal container pattern
+C10366,34.61,Low,Singapore,Kolkata,3643,9,Large weight mismatch
+C10367,97.56,Critical,Japan,Mumbai,880,51,Long port dwell time
+C10368,64.1,Low,UAE,Mundra,2049,29,Normal container pattern
+C10369,82.25,Critical,UAE,Chennai,2944,78,"Large weight mismatch, Long port dwell time"
+C10370,13.25,Low,Japan,Mumbai,1327,40,Normal container pattern
+C10371,86.2,Critical,USA,Mumbai,2301,41,Normal container pattern
+C10372,92.28,Critical,USA,Nhava Sheva,3723,11,Large weight mismatch
+C10373,48.71,Low,Japan,Nhava Sheva,452,23,Normal container pattern
+C10374,60.63,Low,Singapore,Nhava Sheva,3108,1,Large weight mismatch
+C10375,76.48,Critical,Germany,Mumbai,1183,46,Normal container pattern
+C10376,17.48,Low,USA,Chennai,3062,21,Large weight mismatch
+C10377,50.26,Low,China,Kolkata,2056,36,Normal container pattern
+C10378,39.87,Low,UAE,Nhava Sheva,3304,54,"Large weight mismatch, Long port dwell time"
+C10379,14.64,Low,Japan,Chennai,3170,57,"Large weight mismatch, Long port dwell time"
+C10380,36.75,Low,China,Mundra,1682,1,Normal container pattern
+C10381,6.82,Low,Japan,Nhava Sheva,2863,63,"Large weight mismatch, Long port dwell time"
+C10382,2.58,Low,India,Kolkata,2255,54,Long port dwell time
+C10383,13.52,Low,UAE,Mundra,1154,55,Long port dwell time
+C10384,96.31,Critical,UAE,Mundra,403,40,Normal container pattern
+C10385,54.95,Low,USA,Kolkata,2199,15,Normal container pattern
+C10386,96.58,Critical,USA,Nhava Sheva,2101,21,Normal container pattern
+C10387,43.25,Low,China,Mumbai,3191,47,Large weight mismatch
+C10388,31.18,Low,India,Kolkata,1696,73,Long port dwell time
+C10389,50.61,Low,Japan,Kolkata,3991,53,"Large weight mismatch, Long port dwell time"
+C10390,43.95,Low,India,Kolkata,627,9,Normal container pattern
+C10391,10.57,Low,UAE,Mundra,586,74,Long port dwell time
+C10392,64.08,Low,China,Chennai,1648,52,Long port dwell time
+C10393,21.6,Low,Germany,Mumbai,1443,57,Long port dwell time
+C10394,61.96,Low,China,Nhava Sheva,1445,26,Normal container pattern
+C10395,65.02,Low,Singapore,Nhava Sheva,103,41,Normal container pattern
+C10396,15.2,Low,China,Chennai,3923,35,Large weight mismatch
+C10397,6.13,Low,India,Kolkata,253,63,Long port dwell time
+C10398,78.08,Critical,Singapore,Mumbai,3298,25,Large weight mismatch
+C10399,45.98,Low,Singapore,Nhava Sheva,3183,75,"Large weight mismatch, Long port dwell time"
+C10400,5.82,Low,Singapore,Nhava Sheva,2557,38,Large weight mismatch
+C10401,99.49,Critical,Germany,Kolkata,1496,2,Normal container pattern
+C10402,5.78,Low,China,Chennai,98,7,Normal container pattern
+C10403,69.5,Low,India,Mumbai,2200,34,Normal container pattern
+C10404,98.37,Critical,China,Chennai,1884,17,Normal container pattern
+C10405,23.92,Low,Germany,Chennai,2961,43,Large weight mismatch
+C10406,14.22,Low,UAE,Mumbai,1919,59,Long port dwell time
+C10407,12.14,Low,USA,Mumbai,877,51,Long port dwell time
+C10408,30.33,Low,India,Nhava Sheva,337,54,Long port dwell time
+C10409,10.1,Low,India,Nhava Sheva,3777,24,Large weight mismatch
+C10410,69.22,Low,China,Mumbai,2869,25,Large weight mismatch
+C10411,6.23,Low,USA,Mundra,3234,71,"Large weight mismatch, Long port dwell time"
+C10412,50.94,Low,Japan,Nhava Sheva,3791,52,"Large weight mismatch, Long port dwell time"
+C10413,99.67,Critical,Japan,Mundra,956,70,Long port dwell time
+C10414,81.4,Critical,Germany,Mumbai,1704,33,Normal container pattern
+C10415,61.52,Low,Japan,Nhava Sheva,160,49,Long port dwell time
+C10416,30.63,Low,India,Chennai,1603,29,Normal container pattern
+C10417,62.39,Low,Japan,Mumbai,2848,63,"Large weight mismatch, Long port dwell time"
+C10418,52.7,Low,UAE,Kolkata,397,22,Normal container pattern
+C10419,42.61,Low,UAE,Mundra,1300,26,Normal container pattern
+C10420,13.07,Low,UAE,Mumbai,815,28,Normal container pattern
+C10421,88.66,Critical,Japan,Mumbai,3987,49,"Large weight mismatch, Long port dwell time"
+C10422,44.98,Low,Germany,Nhava Sheva,1527,71,Long port dwell time
+C10423,19.46,Low,Singapore,Nhava Sheva,1919,49,Long port dwell time
+C10424,36.78,Low,Singapore,Nhava Sheva,1415,20,Normal container pattern
+C10425,41.41,Low,USA,Kolkata,1158,63,Long port dwell time
+C10426,82.75,Critical,Singapore,Nhava Sheva,1218,61,Long port dwell time
+C10427,73.36,Critical,Singapore,Mumbai,400,49,Long port dwell time
+C10428,76.93,Critical,UAE,Nhava Sheva,639,71,Long port dwell time
+C10429,1.1,Low,UAE,Chennai,3104,1,Large weight mismatch
+C10430,41.62,Low,Japan,Nhava Sheva,2735,13,Large weight mismatch
+C10431,48.13,Low,USA,Kolkata,459,51,Long port dwell time
+C10432,1.92,Low,China,Chennai,954,56,Long port dwell time
+C10433,25.98,Low,India,Mumbai,3954,62,"Large weight mismatch, Long port dwell time"
+C10434,76.03,Critical,USA,Mumbai,469,32,Normal container pattern
+C10435,13.71,Low,USA,Mundra,3446,30,Large weight mismatch
+C10436,53.53,Low,Germany,Chennai,1045,29,Normal container pattern
+C10437,21.52,Low,Japan,Mundra,2797,49,"Large weight mismatch, Long port dwell time"
+C10438,1.21,Low,Germany,Chennai,1693,45,Normal container pattern
+C10439,24.12,Low,USA,Chennai,2085,30,Normal container pattern
+C10440,97.59,Critical,USA,Kolkata,2277,16,Normal container pattern
+C10441,80.15,Critical,USA,Mundra,3436,40,Large weight mismatch
+C10442,95.96,Critical,Singapore,Kolkata,562,19,Normal container pattern
+C10443,48.79,Low,India,Chennai,2485,18,Normal container pattern
+C10444,10.97,Low,India,Mumbai,1799,1,Normal container pattern
+C10445,54.8,Low,Germany,Chennai,3354,78,"Large weight mismatch, Long port dwell time"
+C10446,45.44,Low,USA,Kolkata,2074,47,Normal container pattern
+C10447,84.44,Critical,India,Mundra,225,66,Long port dwell time
+C10448,9.81,Low,UAE,Mundra,3348,38,Large weight mismatch
+C10449,48.82,Low,India,Kolkata,797,51,Long port dwell time
+C10450,15.0,Low,Japan,Mundra,3680,63,"Large weight mismatch, Long port dwell time"
+C10451,32.47,Low,Japan,Nhava Sheva,2331,4,Normal container pattern
+C10452,73.74,Critical,India,Mumbai,2926,1,Large weight mismatch
+C10453,47.6,Low,UAE,Mumbai,959,8,Normal container pattern
+C10454,37.59,Low,Japan,Mumbai,1504,29,Normal container pattern
+C10455,39.45,Low,Singapore,Mundra,452,55,Long port dwell time
+C10456,45.94,Low,India,Mundra,3067,3,Large weight mismatch
+C10457,78.5,Critical,Singapore,Chennai,3900,32,Large weight mismatch
+C10458,89.21,Critical,India,Chennai,815,10,Normal container pattern
+C10459,95.53,Critical,China,Mumbai,658,74,Long port dwell time
+C10460,78.69,Critical,China,Nhava Sheva,3587,34,Large weight mismatch
+C10461,31.54,Low,China,Chennai,546,55,Long port dwell time
+C10462,68.81,Low,Japan,Chennai,1215,32,Normal container pattern
+C10463,43.76,Low,Singapore,Mundra,3120,50,"Large weight mismatch, Long port dwell time"
+C10464,25.47,Low,Singapore,Nhava Sheva,3583,7,Large weight mismatch
+C10465,84.09,Critical,Singapore,Mumbai,16,8,Normal container pattern
+C10466,3.84,Low,UAE,Chennai,3243,65,"Large weight mismatch, Long port dwell time"
+C10467,90.18,Critical,Singapore,Nhava Sheva,1243,57,Long port dwell time
+C10468,46.15,Low,UAE,Nhava Sheva,2205,67,Long port dwell time
+C10469,63.72,Low,China,Mumbai,2524,59,"Large weight mismatch, Long port dwell time"
+C10470,65.94,Low,China,Nhava Sheva,1069,72,Long port dwell time
+C10471,89.51,Critical,Japan,Nhava Sheva,3444,54,"Large weight mismatch, Long port dwell time"
+C10472,63.67,Low,India,Nhava Sheva,2565,67,"Large weight mismatch, Long port dwell time"
+C10473,61.39,Low,China,Chennai,2146,51,Long port dwell time
+C10474,6.67,Low,India,Mumbai,3963,8,Large weight mismatch
+C10475,51.84,Low,India,Nhava Sheva,1768,34,Normal container pattern
+C10476,15.02,Low,Japan,Nhava Sheva,1060,35,Normal container pattern
+C10477,73.74,Critical,USA,Chennai,2327,78,Long port dwell time
+C10478,51.22,Low,USA,Mumbai,3420,32,Large weight mismatch
+C10479,68.02,Low,Germany,Mundra,2544,46,Large weight mismatch
+C10480,4.17,Low,Japan,Chennai,301,16,Normal container pattern
+C10481,8.48,Low,Germany,Mumbai,180,68,Long port dwell time
+C10482,71.63,Critical,Germany,Nhava Sheva,606,37,Normal container pattern
+C10483,7.21,Low,USA,Mumbai,3170,54,"Large weight mismatch, Long port dwell time"
+C10484,7.13,Low,Japan,Mumbai,699,14,Normal container pattern
+C10485,1.21,Low,USA,Mumbai,992,55,Long port dwell time
+C10486,95.65,Critical,Germany,Mundra,1139,48,Normal container pattern
+C10487,73.75,Critical,Japan,Mumbai,190,7,Normal container pattern
+C10488,35.33,Low,Germany,Mundra,2300,74,Long port dwell time
+C10489,29.65,Low,Singapore,Nhava Sheva,980,7,Normal container pattern
+C10490,34.97,Low,India,Mundra,2975,33,Large weight mismatch
+C10491,77.47,Critical,Japan,Nhava Sheva,2006,23,Normal container pattern
+C10492,66.14,Low,Japan,Nhava Sheva,1184,19,Normal container pattern
+C10493,18.52,Low,India,Mundra,3327,19,Large weight mismatch
+C10494,17.41,Low,Germany,Chennai,3394,36,Large weight mismatch
+C10495,9.84,Low,Singapore,Kolkata,127,29,Normal container pattern
+C10496,66.03,Low,UAE,Mumbai,2065,60,Long port dwell time
+C10497,76.44,Critical,India,Kolkata,1816,2,Normal container pattern
+C10498,26.5,Low,USA,Mumbai,1758,1,Normal container pattern
+C10499,2.09,Low,Germany,Mumbai,2613,47,Large weight mismatch
+C10500,8.22,Low,India,Nhava Sheva,569,69,Long port dwell time
+C10501,96.79,Critical,India,Mumbai,1346,20,Normal container pattern
+C10502,29.54,Low,Japan,Mumbai,1895,11,Normal container pattern
+C10503,76.92,Critical,USA,Mundra,2733,2,Large weight mismatch
+C10504,62.47,Low,USA,Kolkata,3863,67,"Large weight mismatch, Long port dwell time"
+C10505,38.19,Low,USA,Mundra,625,12,Normal container pattern
+C10506,20.57,Low,India,Mumbai,3359,20,Large weight mismatch
+C10507,12.14,Low,UAE,Nhava Sheva,2901,5,Large weight mismatch
+C10508,61.5,Low,China,Mundra,1686,37,Normal container pattern
+C10509,77.46,Critical,Germany,Mundra,3009,38,Large weight mismatch
+C10510,64.39,Low,China,Chennai,3710,9,Large weight mismatch
+C10511,53.03,Low,India,Mumbai,154,53,Long port dwell time
+C10512,4.2,Low,China,Nhava Sheva,2537,44,Large weight mismatch
+C10513,96.85,Critical,India,Mundra,1409,24,Normal container pattern
+C10514,79.87,Critical,China,Mundra,784,74,Long port dwell time
+C10515,29.28,Low,USA,Nhava Sheva,3175,30,Large weight mismatch
+C10516,98.0,Critical,Singapore,Mumbai,3464,59,"Large weight mismatch, Long port dwell time"
+C10517,60.19,Low,USA,Chennai,3882,14,Large weight mismatch
+C10518,58.24,Low,USA,Mundra,245,9,Normal container pattern
+C10519,74.81,Critical,Japan,Chennai,3247,40,Large weight mismatch
+C10520,81.18,Critical,Japan,Kolkata,3110,66,"Large weight mismatch, Long port dwell time"
+C10521,65.65,Low,China,Mumbai,1500,25,Normal container pattern
+C10522,12.81,Low,India,Kolkata,1705,73,Long port dwell time
+C10523,33.83,Low,USA,Kolkata,2806,22,Large weight mismatch
+C10524,92.81,Critical,China,Kolkata,537,4,Normal container pattern
+C10525,22.46,Low,Japan,Mumbai,1890,26,Normal container pattern
+C10526,37.22,Low,Singapore,Mumbai,1841,58,Long port dwell time
+C10527,43.21,Low,Germany,Nhava Sheva,920,29,Normal container pattern
+C10528,43.94,Low,China,Chennai,2455,37,Normal container pattern
+C10529,61.29,Low,Singapore,Chennai,524,75,Long port dwell time
+C10530,94.31,Critical,Germany,Nhava Sheva,2875,70,"Large weight mismatch, Long port dwell time"
+C10531,24.07,Low,UAE,Nhava Sheva,1529,18,Normal container pattern
+C10532,12.15,Low,China,Kolkata,2950,42,Large weight mismatch
+C10533,19.75,Low,China,Nhava Sheva,3896,41,Large weight mismatch
+C10534,88.69,Critical,UAE,Mundra,35,38,Normal container pattern
+C10535,64.58,Low,UAE,Chennai,684,34,Normal container pattern
+C10536,28.59,Low,China,Nhava Sheva,19,17,Normal container pattern
+C10537,81.59,Critical,UAE,Mundra,2368,37,Normal container pattern
+C10538,86.14,Critical,USA,Mundra,3847,25,Large weight mismatch
+C10539,84.65,Critical,Germany,Mundra,2559,76,"Large weight mismatch, Long port dwell time"
+C10540,91.89,Critical,Germany,Mundra,399,27,Normal container pattern
+C10541,25.22,Low,Germany,Kolkata,2701,57,"Large weight mismatch, Long port dwell time"
+C10542,75.5,Critical,USA,Mundra,971,31,Normal container pattern
+C10543,46.05,Low,India,Kolkata,1906,6,Normal container pattern
+C10544,84.2,Critical,UAE,Kolkata,2518,40,Large weight mismatch
+C10545,72.85,Critical,Singapore,Mundra,1166,12,Normal container pattern
+C10546,77.64,Critical,UAE,Chennai,1115,53,Long port dwell time
+C10547,65.62,Low,China,Mundra,3425,71,"Large weight mismatch, Long port dwell time"
+C10548,17.74,Low,Japan,Mundra,833,10,Normal container pattern
+C10549,54.5,Low,Germany,Mundra,1823,45,Normal container pattern
+C10550,98.47,Critical,UAE,Chennai,2774,17,Large weight mismatch
+C10551,93.74,Critical,Singapore,Mumbai,1982,26,Normal container pattern
+C10552,4.32,Low,China,Mumbai,853,62,Long port dwell time
+C10553,16.48,Low,USA,Kolkata,50,46,Normal container pattern
+C10554,13.17,Low,India,Kolkata,3736,64,"Large weight mismatch, Long port dwell time"
+C10555,72.6,Critical,USA,Chennai,3769,2,Large weight mismatch
+C10556,81.78,Critical,Singapore,Nhava Sheva,574,54,Long port dwell time
+C10557,21.35,Low,China,Mumbai,3261,65,"Large weight mismatch, Long port dwell time"
+C10558,50.59,Low,Germany,Kolkata,1148,51,Long port dwell time
+C10559,84.07,Critical,UAE,Mumbai,2197,53,Long port dwell time
+C10560,73.28,Critical,China,Chennai,2361,36,Normal container pattern
+C10561,54.22,Low,India,Chennai,2617,26,Large weight mismatch
+C10562,59.03,Low,USA,Nhava Sheva,3413,29,Large weight mismatch
+C10563,50.84,Low,India,Nhava Sheva,2352,21,Normal container pattern
+C10564,29.75,Low,India,Chennai,1715,11,Normal container pattern
+C10565,56.5,Low,Singapore,Kolkata,681,40,Normal container pattern
+C10566,68.89,Low,Singapore,Mumbai,837,11,Normal container pattern
+C10567,87.33,Critical,UAE,Mundra,3854,36,Large weight mismatch
+C10568,63.63,Low,Singapore,Nhava Sheva,1077,59,Long port dwell time
+C10569,76.11,Critical,Singapore,Mundra,3050,39,Large weight mismatch
+C10570,16.01,Low,China,Kolkata,2491,54,Long port dwell time
+C10571,46.16,Low,Germany,Nhava Sheva,2660,55,"Large weight mismatch, Long port dwell time"
+C10572,0.93,Low,UAE,Mundra,3040,24,Large weight mismatch
+C10573,24.67,Low,China,Kolkata,2311,22,Normal container pattern
+C10574,72.65,Critical,Germany,Mumbai,3124,69,"Large weight mismatch, Long port dwell time"
+C10575,99.18,Critical,India,Kolkata,1595,56,Long port dwell time
+C10576,9.92,Low,China,Nhava Sheva,3051,33,Large weight mismatch
+C10577,40.15,Low,Japan,Chennai,3691,36,Large weight mismatch
+C10578,80.01,Critical,China,Mumbai,4,20,Normal container pattern
+C10579,20.4,Low,Singapore,Mundra,1126,62,Long port dwell time
+C10580,55.51,Low,Germany,Nhava Sheva,1219,73,Long port dwell time
+C10581,73.31,Critical,UAE,Chennai,773,26,Normal container pattern
+C10582,61.6,Low,UAE,Kolkata,876,66,Long port dwell time
+C10583,18.8,Low,Germany,Chennai,991,73,Long port dwell time
+C10584,35.54,Low,Singapore,Nhava Sheva,2931,73,"Large weight mismatch, Long port dwell time"
+C10585,78.38,Critical,USA,Nhava Sheva,3421,40,Large weight mismatch
+C10586,55.42,Low,China,Chennai,46,17,Normal container pattern
+C10587,0.52,Low,Singapore,Kolkata,2914,1,Large weight mismatch
+C10588,76.1,Critical,Japan,Chennai,2870,61,"Large weight mismatch, Long port dwell time"
+C10589,3.53,Low,India,Nhava Sheva,2983,43,Large weight mismatch
+C10590,74.57,Critical,Germany,Nhava Sheva,3891,42,Large weight mismatch
+C10591,20.25,Low,China,Mundra,2703,25,Large weight mismatch
+C10592,95.81,Critical,UAE,Mundra,268,39,Normal container pattern
+C10593,36.79,Low,India,Mumbai,369,35,Normal container pattern
+C10594,32.69,Low,USA,Nhava Sheva,635,3,Normal container pattern
+C10595,14.89,Low,Japan,Mundra,1129,44,Normal container pattern
+C10596,30.56,Low,UAE,Chennai,1693,51,Long port dwell time
+C10597,87.67,Critical,Germany,Kolkata,1682,12,Normal container pattern
+C10598,99.63,Critical,China,Chennai,656,19,Normal container pattern
+C10599,36.83,Low,Germany,Kolkata,119,44,Normal container pattern
+C10600,44.86,Low,India,Mundra,830,59,Long port dwell time
+C10601,72.21,Critical,China,Mumbai,1810,49,Long port dwell time
+C10602,88.62,Critical,Singapore,Chennai,3675,61,"Large weight mismatch, Long port dwell time"
+C10603,59.3,Low,USA,Chennai,1081,17,Normal container pattern
+C10604,39.15,Low,Singapore,Chennai,1974,74,Long port dwell time
+C10605,41.26,Low,Singapore,Kolkata,1369,57,Long port dwell time
+C10606,69.56,Low,Germany,Mundra,740,55,Long port dwell time
+C10607,0.32,Low,India,Chennai,3545,47,Large weight mismatch
+C10608,61.96,Low,USA,Chennai,116,12,Normal container pattern
+C10609,35.55,Low,China,Mumbai,1853,62,Long port dwell time
+C10610,79.42,Critical,China,Mumbai,2838,8,Large weight mismatch
+C10611,9.3,Low,Japan,Mundra,1150,21,Normal container pattern
+C10612,58.82,Low,UAE,Mundra,3464,70,"Large weight mismatch, Long port dwell time"
+C10613,48.1,Low,Japan,Nhava Sheva,1931,72,Long port dwell time
+C10614,64.23,Low,Japan,Mumbai,1012,25,Normal container pattern
+C10615,6.49,Low,China,Nhava Sheva,1664,12,Normal container pattern
+C10616,58.0,Low,Germany,Kolkata,1081,15,Normal container pattern
+C10617,56.15,Low,Singapore,Nhava Sheva,633,59,Long port dwell time
+C10618,56.07,Low,India,Chennai,512,26,Normal container pattern
+C10619,60.35,Low,Singapore,Nhava Sheva,3822,26,Large weight mismatch
+C10620,67.65,Low,Singapore,Mundra,2849,47,Large weight mismatch
+C10621,80.5,Critical,USA,Kolkata,1119,32,Normal container pattern
+C10622,26.98,Low,China,Chennai,3709,10,Large weight mismatch
+C10623,82.5,Critical,India,Nhava Sheva,1141,16,Normal container pattern
+C10624,49.83,Low,Germany,Kolkata,559,71,Long port dwell time
+C10625,7.71,Low,USA,Kolkata,3672,17,Large weight mismatch
+C10626,5.86,Low,UAE,Chennai,487,23,Normal container pattern
+C10627,33.42,Low,Germany,Nhava Sheva,3308,26,Large weight mismatch
+C10628,78.49,Critical,Japan,Kolkata,3956,7,Large weight mismatch
+C10629,70.77,Critical,Germany,Kolkata,896,14,Normal container pattern
+C10630,78.86,Critical,Germany,Mumbai,3343,79,"Large weight mismatch, Long port dwell time"
+C10631,51.73,Low,Singapore,Kolkata,1212,7,Normal container pattern
+C10632,44.02,Low,Germany,Mumbai,703,9,Normal container pattern
+C10633,14.75,Low,Japan,Nhava Sheva,1470,48,Normal container pattern
+C10634,32.82,Low,Japan,Nhava Sheva,580,72,Long port dwell time
+C10635,43.4,Low,China,Nhava Sheva,2837,59,"Large weight mismatch, Long port dwell time"
+C10636,8.86,Low,Germany,Mundra,2908,39,Large weight mismatch
+C10637,22.06,Low,Singapore,Nhava Sheva,2294,18,Normal container pattern
+C10638,59.82,Low,Germany,Kolkata,3147,59,"Large weight mismatch, Long port dwell time"
+C10639,73.57,Critical,UAE,Chennai,153,17,Normal container pattern
+C10640,99.83,Critical,UAE,Mumbai,1679,14,Normal container pattern
+C10641,93.31,Critical,Singapore,Mundra,3506,31,Large weight mismatch
+C10642,64.26,Low,China,Nhava Sheva,996,24,Normal container pattern
+C10643,42.12,Low,China,Nhava Sheva,3157,60,"Large weight mismatch, Long port dwell time"
+C10644,63.62,Low,Japan,Chennai,2744,45,Large weight mismatch
+C10645,78.57,Critical,Japan,Chennai,3356,3,Large weight mismatch
+C10646,11.83,Low,USA,Mundra,1243,37,Normal container pattern
+C10647,40.99,Low,Singapore,Mumbai,1092,43,Normal container pattern
+C10648,83.98,Critical,Germany,Nhava Sheva,3118,40,Large weight mismatch
+C10649,38.38,Low,India,Mundra,1008,55,Long port dwell time
+C10650,57.19,Low,Singapore,Kolkata,2141,39,Normal container pattern
+C10651,58.78,Low,USA,Kolkata,1773,15,Normal container pattern
+C10652,18.45,Low,Japan,Mundra,957,4,Normal container pattern
+C10653,36.22,Low,Singapore,Nhava Sheva,3059,25,Large weight mismatch
+C10654,33.45,Low,Singapore,Mundra,452,13,Normal container pattern
+C10655,2.62,Low,Japan,Nhava Sheva,1227,33,Normal container pattern
+C10656,2.42,Low,USA,Chennai,2959,16,Large weight mismatch
+C10657,83.17,Critical,Japan,Mundra,2265,42,Normal container pattern
+C10658,27.31,Low,China,Nhava Sheva,2521,66,"Large weight mismatch, Long port dwell time"
+C10659,51.81,Low,Germany,Mundra,2479,55,Long port dwell time
+C10660,29.87,Low,Japan,Mundra,2388,42,Normal container pattern
+C10661,94.07,Critical,USA,Nhava Sheva,550,34,Normal container pattern
+C10662,25.93,Low,UAE,Nhava Sheva,1635,30,Normal container pattern
+C10663,42.97,Low,China,Mumbai,1312,13,Normal container pattern
+C10664,87.27,Critical,UAE,Mundra,3325,13,Large weight mismatch
+C10665,84.19,Critical,India,Kolkata,1757,18,Normal container pattern
+C10666,18.61,Low,Japan,Mundra,356,32,Normal container pattern
+C10667,80.26,Critical,China,Mundra,2070,39,Normal container pattern
+C10668,45.82,Low,Germany,Nhava Sheva,1785,46,Normal container pattern
+C10669,48.3,Low,Japan,Mundra,2569,29,Large weight mismatch
+C10670,13.35,Low,Germany,Mundra,1781,62,Long port dwell time
+C10671,8.06,Low,Singapore,Kolkata,3908,62,"Large weight mismatch, Long port dwell time"
+C10672,72.79,Critical,UAE,Nhava Sheva,3171,57,"Large weight mismatch, Long port dwell time"
+C10673,49.65,Low,China,Mundra,2849,16,Large weight mismatch
+C10674,43.69,Low,Germany,Chennai,3251,56,"Large weight mismatch, Long port dwell time"
+C10675,72.95,Critical,USA,Mumbai,3294,10,Large weight mismatch
+C10676,76.55,Critical,Germany,Kolkata,3977,30,Large weight mismatch
+C10677,15.89,Low,USA,Mundra,2809,25,Large weight mismatch
+C10678,61.02,Low,Japan,Chennai,3730,5,Large weight mismatch
+C10679,13.54,Low,China,Mundra,2489,65,Long port dwell time
+C10680,75.14,Critical,Germany,Mundra,1631,49,Long port dwell time
+C10681,65.7,Low,India,Nhava Sheva,2816,3,Large weight mismatch
+C10682,95.66,Critical,Germany,Nhava Sheva,1015,45,Normal container pattern
+C10683,6.9,Low,India,Nhava Sheva,1348,14,Normal container pattern
+C10684,5.71,Low,China,Chennai,515,30,Normal container pattern
+C10685,28.22,Low,Germany,Mundra,3087,68,"Large weight mismatch, Long port dwell time"
+C10686,26.17,Low,USA,Mumbai,2839,18,Large weight mismatch
+C10687,24.7,Low,Germany,Kolkata,335,62,Long port dwell time
+C10688,90.63,Critical,UAE,Nhava Sheva,1782,37,Normal container pattern
+C10689,24.95,Low,Japan,Nhava Sheva,2305,25,Normal container pattern
+C10690,27.19,Low,Singapore,Mundra,496,48,Normal container pattern
+C10691,75.94,Critical,USA,Mundra,895,65,Long port dwell time
+C10692,44.97,Low,UAE,Chennai,2207,53,Long port dwell time
+C10693,77.67,Critical,India,Chennai,3546,79,"Large weight mismatch, Long port dwell time"
+C10694,6.54,Low,Japan,Nhava Sheva,851,73,Long port dwell time
+C10695,48.76,Low,China,Mundra,1687,15,Normal container pattern
+C10696,3.36,Low,USA,Mumbai,1931,49,Long port dwell time
+C10697,6.27,Low,Singapore,Kolkata,2737,68,"Large weight mismatch, Long port dwell time"
+C10698,90.64,Critical,Japan,Mundra,3746,12,Large weight mismatch
+C10699,13.92,Low,India,Mundra,2427,59,Long port dwell time
+C10700,53.24,Low,Singapore,Chennai,1568,37,Normal container pattern
+C10701,41.11,Low,China,Kolkata,956,61,Long port dwell time
+C10702,34.73,Low,China,Nhava Sheva,2738,43,Large weight mismatch
+C10703,89.98,Critical,India,Mundra,3498,70,"Large weight mismatch, Long port dwell time"
+C10704,2.18,Low,USA,Nhava Sheva,1636,39,Normal container pattern
+C10705,66.38,Low,India,Mundra,1291,56,Long port dwell time
+C10706,96.34,Critical,Germany,Nhava Sheva,3906,63,"Large weight mismatch, Long port dwell time"
+C10707,56.02,Low,China,Kolkata,3648,46,Large weight mismatch
+C10708,93.68,Critical,Japan,Chennai,1440,11,Normal container pattern
+C10709,5.23,Low,Germany,Kolkata,1191,62,Long port dwell time
+C10710,41.88,Low,UAE,Mumbai,3913,77,"Large weight mismatch, Long port dwell time"
+C10711,26.02,Low,Singapore,Chennai,1066,25,Normal container pattern
+C10712,73.08,Critical,Germany,Kolkata,3627,71,"Large weight mismatch, Long port dwell time"
+C10713,98.13,Critical,Singapore,Mumbai,284,52,Long port dwell time
+C10714,25.65,Low,India,Mundra,2444,4,Normal container pattern
+C10715,65.42,Low,Germany,Mundra,11,59,Long port dwell time
+C10716,19.81,Low,India,Nhava Sheva,1630,72,Long port dwell time
+C10717,56.53,Low,UAE,Chennai,3373,20,Large weight mismatch
+C10718,46.39,Low,China,Mundra,3969,63,"Large weight mismatch, Long port dwell time"
+C10719,97.2,Critical,UAE,Chennai,3324,54,"Large weight mismatch, Long port dwell time"
+C10720,60.85,Low,China,Mundra,2546,74,"Large weight mismatch, Long port dwell time"
+C10721,34.95,Low,India,Nhava Sheva,753,57,Long port dwell time
+C10722,11.41,Low,China,Kolkata,2082,41,Normal container pattern
+C10723,15.12,Low,Singapore,Nhava Sheva,2774,3,Large weight mismatch
+C10724,22.53,Low,Japan,Mumbai,2896,6,Large weight mismatch
+C10725,25.1,Low,UAE,Mundra,89,5,Normal container pattern
+C10726,85.06,Critical,Germany,Mumbai,775,5,Normal container pattern
+C10727,56.12,Low,UAE,Mumbai,2652,54,"Large weight mismatch, Long port dwell time"
+C10728,52.34,Low,Singapore,Chennai,3993,47,Large weight mismatch
+C10729,11.48,Low,China,Mundra,3017,49,"Large weight mismatch, Long port dwell time"
+C10730,86.01,Critical,Singapore,Mumbai,1625,9,Normal container pattern
+C10731,72.28,Critical,USA,Kolkata,3069,20,Large weight mismatch
+C10732,6.77,Low,USA,Mumbai,417,61,Long port dwell time
+C10733,70.78,Critical,Germany,Kolkata,114,35,Normal container pattern
+C10734,54.35,Low,Singapore,Chennai,616,50,Long port dwell time
+C10735,8.17,Low,India,Mumbai,3974,62,"Large weight mismatch, Long port dwell time"
+C10736,45.83,Low,Germany,Nhava Sheva,3267,17,Large weight mismatch
+C10737,48.47,Low,India,Chennai,825,3,Normal container pattern
+C10738,16.58,Low,Germany,Kolkata,3572,32,Large weight mismatch
+C10739,94.57,Critical,USA,Chennai,1649,13,Normal container pattern
+C10740,85.0,Critical,Germany,Mumbai,1516,73,Long port dwell time
+C10741,66.9,Low,USA,Mundra,3146,68,"Large weight mismatch, Long port dwell time"
+C10742,46.23,Low,China,Mundra,412,14,Normal container pattern
+C10743,41.18,Low,India,Kolkata,3447,11,Large weight mismatch
+C10744,65.1,Low,Singapore,Kolkata,3491,56,"Large weight mismatch, Long port dwell time"
+C10745,54.54,Low,Germany,Mundra,728,67,Long port dwell time
+C10746,6.23,Low,USA,Kolkata,3348,29,Large weight mismatch
+C10747,51.25,Low,UAE,Chennai,3068,9,Large weight mismatch
+C10748,80.64,Critical,India,Nhava Sheva,2808,67,"Large weight mismatch, Long port dwell time"
+C10749,45.92,Low,Germany,Nhava Sheva,675,25,Normal container pattern
+C10750,5.2,Low,Japan,Chennai,3465,76,"Large weight mismatch, Long port dwell time"
+C10751,78.63,Critical,China,Nhava Sheva,1892,42,Normal container pattern
+C10752,20.14,Low,China,Mumbai,2504,9,Large weight mismatch
+C10753,25.86,Low,UAE,Chennai,2967,79,"Large weight mismatch, Long port dwell time"
+C10754,16.47,Low,USA,Kolkata,2239,40,Normal container pattern
+C10755,33.02,Low,Germany,Chennai,2786,25,Large weight mismatch
+C10756,75.68,Critical,India,Mundra,3760,5,Large weight mismatch
+C10757,51.94,Low,USA,Kolkata,1122,11,Normal container pattern
+C10758,20.49,Low,China,Mundra,1571,59,Long port dwell time
+C10759,87.78,Critical,USA,Kolkata,977,79,Long port dwell time
+C10760,87.96,Critical,China,Nhava Sheva,1008,38,Normal container pattern
+C10761,87.06,Critical,USA,Chennai,2143,72,Long port dwell time
+C10762,23.88,Low,UAE,Mumbai,1687,5,Normal container pattern
+C10763,45.12,Low,Singapore,Kolkata,2710,48,Large weight mismatch
+C10764,98.5,Critical,UAE,Kolkata,3261,18,Large weight mismatch
+C10765,77.2,Critical,UAE,Mundra,3807,70,"Large weight mismatch, Long port dwell time"
+C10766,2.72,Low,Singapore,Nhava Sheva,36,37,Normal container pattern
+C10767,6.52,Low,Singapore,Mundra,3851,60,"Large weight mismatch, Long port dwell time"
+C10768,46.39,Low,Germany,Mundra,3440,48,Large weight mismatch
+C10769,90.92,Critical,India,Nhava Sheva,3766,77,"Large weight mismatch, Long port dwell time"
+C10770,53.87,Low,India,Mumbai,1548,28,Normal container pattern
+C10771,49.78,Low,Germany,Mundra,2326,69,Long port dwell time
+C10772,10.55,Low,UAE,Mundra,2264,77,Long port dwell time
+C10773,65.68,Low,UAE,Kolkata,2914,40,Large weight mismatch
+C10774,82.21,Critical,China,Nhava Sheva,872,45,Normal container pattern
+C10775,38.04,Low,China,Chennai,1821,62,Long port dwell time
+C10776,77.56,Critical,India,Mumbai,1296,58,Long port dwell time
+C10777,96.45,Critical,Germany,Mumbai,3952,67,"Large weight mismatch, Long port dwell time"
+C10778,20.38,Low,Japan,Nhava Sheva,2109,56,Long port dwell time
+C10779,52.33,Low,Japan,Kolkata,595,40,Normal container pattern
+C10780,28.71,Low,Germany,Kolkata,1903,40,Normal container pattern
+C10781,79.29,Critical,China,Nhava Sheva,728,77,Long port dwell time
+C10782,57.76,Low,India,Kolkata,1365,33,Normal container pattern
+C10783,63.46,Low,India,Mumbai,396,6,Normal container pattern
+C10784,79.79,Critical,China,Mumbai,698,19,Normal container pattern
+C10785,39.6,Low,Japan,Chennai,3090,40,Large weight mismatch
+C10786,91.51,Critical,USA,Nhava Sheva,2224,59,Long port dwell time
+C10787,53.3,Low,USA,Mundra,1635,59,Long port dwell time
+C10788,15.8,Low,China,Mundra,395,48,Normal container pattern
+C10789,69.59,Low,USA,Chennai,2492,41,Normal container pattern
+C10790,79.33,Critical,Singapore,Chennai,3304,13,Large weight mismatch
+C10791,31.68,Low,Germany,Kolkata,3986,45,Large weight mismatch
+C10792,85.72,Critical,Germany,Chennai,75,53,Long port dwell time
+C10793,90.61,Critical,China,Chennai,264,42,Normal container pattern
+C10794,27.69,Low,UAE,Mundra,2502,63,"Large weight mismatch, Long port dwell time"
+C10795,98.35,Critical,Japan,Kolkata,1819,27,Normal container pattern
+C10796,14.07,Low,China,Chennai,717,38,Normal container pattern
+C10797,20.2,Low,USA,Chennai,2782,60,"Large weight mismatch, Long port dwell time"
+C10798,18.42,Low,Japan,Kolkata,3455,7,Large weight mismatch
+C10799,89.4,Critical,UAE,Nhava Sheva,3635,5,Large weight mismatch
+C10800,65.43,Low,USA,Kolkata,850,45,Normal container pattern
+C10801,15.21,Low,India,Mundra,3577,58,"Large weight mismatch, Long port dwell time"
+C10802,44.03,Low,Singapore,Nhava Sheva,1390,31,Normal container pattern
+C10803,61.53,Low,USA,Mumbai,143,23,Normal container pattern
+C10804,8.35,Low,Singapore,Kolkata,884,42,Normal container pattern
+C10805,88.24,Critical,Japan,Mundra,3140,10,Large weight mismatch
+C10806,80.36,Critical,Singapore,Nhava Sheva,3170,32,Large weight mismatch
+C10807,50.52,Low,Japan,Kolkata,395,53,Long port dwell time
+C10808,96.71,Critical,Japan,Chennai,3096,30,Large weight mismatch
+C10809,41.78,Low,Japan,Kolkata,2995,39,Large weight mismatch
+C10810,98.41,Critical,Japan,Mumbai,2938,31,Large weight mismatch
+C10811,66.79,Low,Japan,Kolkata,1492,2,Normal container pattern
+C10812,63.47,Low,USA,Nhava Sheva,3555,78,"Large weight mismatch, Long port dwell time"
+C10813,16.6,Low,Japan,Nhava Sheva,3636,77,"Large weight mismatch, Long port dwell time"
+C10814,88.19,Critical,USA,Kolkata,3222,12,Large weight mismatch
+C10815,42.75,Low,Japan,Nhava Sheva,1167,39,Normal container pattern
+C10816,16.22,Low,Singapore,Chennai,2616,66,"Large weight mismatch, Long port dwell time"
+C10817,1.26,Low,India,Kolkata,1062,13,Normal container pattern
+C10818,55.98,Low,Japan,Chennai,2156,46,Normal container pattern
+C10819,52.74,Low,UAE,Chennai,3764,27,Large weight mismatch
+C10820,71.94,Critical,Japan,Mundra,1065,17,Normal container pattern
+C10821,89.03,Critical,Japan,Kolkata,1209,60,Long port dwell time
+C10822,7.94,Low,Singapore,Nhava Sheva,2982,64,"Large weight mismatch, Long port dwell time"
+C10823,73.15,Critical,Germany,Chennai,2445,35,Normal container pattern
+C10824,18.74,Low,Singapore,Mundra,3294,70,"Large weight mismatch, Long port dwell time"
+C10825,85.82,Critical,UAE,Kolkata,633,30,Normal container pattern
+C10826,81.91,Critical,Germany,Kolkata,1156,71,Long port dwell time
+C10827,54.08,Low,China,Mumbai,3234,74,"Large weight mismatch, Long port dwell time"
+C10828,71.02,Critical,China,Mumbai,1238,63,Long port dwell time
+C10829,31.44,Low,UAE,Chennai,732,28,Normal container pattern
+C10830,47.12,Low,Singapore,Mumbai,234,60,Long port dwell time
+C10831,82.16,Critical,USA,Chennai,3914,79,"Large weight mismatch, Long port dwell time"
+C10832,45.93,Low,UAE,Nhava Sheva,2705,37,Large weight mismatch
+C10833,35.78,Low,India,Chennai,750,22,Normal container pattern
+C10834,49.42,Low,Germany,Mumbai,2635,68,"Large weight mismatch, Long port dwell time"
+C10835,82.82,Critical,Germany,Nhava Sheva,3080,20,Large weight mismatch
+C10836,33.52,Low,Japan,Mumbai,3145,68,"Large weight mismatch, Long port dwell time"
+C10837,17.38,Low,China,Chennai,953,64,Long port dwell time
+C10838,71.2,Critical,Germany,Mundra,2539,17,Large weight mismatch
+C10839,82.6,Critical,UAE,Kolkata,2960,12,Large weight mismatch
+C10840,10.06,Low,Germany,Mumbai,3324,22,Large weight mismatch
+C10841,23.99,Low,UAE,Chennai,3301,17,Large weight mismatch
+C10842,14.2,Low,USA,Nhava Sheva,1542,10,Normal container pattern
+C10843,34.79,Low,Japan,Mumbai,1197,65,Long port dwell time
+C10844,45.04,Low,China,Mumbai,1676,22,Normal container pattern
+C10845,74.88,Critical,Germany,Kolkata,1191,50,Long port dwell time
+C10846,65.11,Low,UAE,Chennai,2217,14,Normal container pattern
+C10847,62.09,Low,Singapore,Mundra,1416,64,Long port dwell time
+C10848,35.24,Low,China,Nhava Sheva,2993,47,Large weight mismatch
+C10849,84.14,Critical,USA,Chennai,2842,29,Large weight mismatch
+C10850,47.13,Low,UAE,Nhava Sheva,2681,76,"Large weight mismatch, Long port dwell time"
+C10851,97.91,Critical,India,Mumbai,1217,36,Normal container pattern
+C10852,63.41,Low,India,Kolkata,1540,52,Long port dwell time
+C10853,12.63,Low,Japan,Kolkata,2076,76,Long port dwell time
+C10854,67.62,Low,Japan,Mundra,3236,7,Large weight mismatch
+C10855,32.51,Low,USA,Kolkata,1445,29,Normal container pattern
+C10856,68.63,Low,USA,Mumbai,2386,11,Normal container pattern
+C10857,6.96,Low,Japan,Mundra,3719,33,Large weight mismatch
+C10858,17.49,Low,Germany,Chennai,1519,6,Normal container pattern
+C10859,85.57,Critical,Germany,Kolkata,1388,79,Long port dwell time
+C10860,22.72,Low,UAE,Mundra,1856,32,Normal container pattern
+C10861,83.7,Critical,Singapore,Mumbai,1365,51,Long port dwell time
+C10862,27.93,Low,UAE,Nhava Sheva,499,75,Long port dwell time
+C10863,64.29,Low,Singapore,Nhava Sheva,1680,58,Long port dwell time
+C10864,69.42,Low,USA,Mumbai,510,26,Normal container pattern
+C10865,51.27,Low,China,Mumbai,3398,46,Large weight mismatch
+C10866,30.53,Low,UAE,Nhava Sheva,216,29,Normal container pattern
+C10867,21.26,Low,UAE,Mundra,1324,4,Normal container pattern
+C10868,3.32,Low,Singapore,Nhava Sheva,1155,13,Normal container pattern
+C10869,30.39,Low,USA,Mumbai,1827,39,Normal container pattern
+C10870,65.32,Low,USA,Kolkata,3141,15,Large weight mismatch
+C10871,93.83,Critical,India,Chennai,3323,29,Large weight mismatch
+C10872,87.12,Critical,Singapore,Kolkata,3486,29,Large weight mismatch
+C10873,76.61,Critical,USA,Kolkata,1810,75,Long port dwell time
+C10874,78.84,Critical,Japan,Mumbai,2492,32,Normal container pattern
+C10875,66.5,Low,Germany,Nhava Sheva,2923,2,Large weight mismatch
+C10876,26.03,Low,India,Mundra,1205,47,Normal container pattern
+C10877,90.72,Critical,Japan,Kolkata,2214,78,Long port dwell time
+C10878,67.07,Low,China,Nhava Sheva,90,22,Normal container pattern
+C10879,56.04,Low,UAE,Mundra,713,75,Long port dwell time
+C10880,11.1,Low,India,Kolkata,1881,27,Normal container pattern
+C10881,44.71,Low,China,Mundra,3602,67,"Large weight mismatch, Long port dwell time"
+C10882,46.04,Low,UAE,Nhava Sheva,38,56,Long port dwell time
+C10883,86.46,Critical,Germany,Chennai,3197,21,Large weight mismatch
+C10884,54.66,Low,USA,Nhava Sheva,3522,47,Large weight mismatch
+C10885,38.04,Low,Japan,Mumbai,172,59,Long port dwell time
+C10886,97.68,Critical,Singapore,Mundra,652,6,Normal container pattern
+C10887,11.07,Low,Japan,Chennai,753,19,Normal container pattern
+C10888,42.25,Low,Germany,Mundra,1243,57,Long port dwell time
+C10889,4.2,Low,China,Mundra,3709,69,"Large weight mismatch, Long port dwell time"
+C10890,73.99,Critical,Singapore,Kolkata,1081,3,Normal container pattern
+C10891,91.81,Critical,USA,Mumbai,1683,1,Normal container pattern
+C10892,28.0,Low,Germany,Mundra,2523,58,"Large weight mismatch, Long port dwell time"
+C10893,85.83,Critical,Singapore,Nhava Sheva,455,38,Normal container pattern
+C10894,29.22,Low,Germany,Nhava Sheva,828,15,Normal container pattern
+C10895,91.08,Critical,Germany,Kolkata,894,34,Normal container pattern
+C10896,75.4,Critical,USA,Mumbai,1384,61,Long port dwell time
+C10897,80.49,Critical,India,Mumbai,1958,35,Normal container pattern
+C10898,1.8,Low,UAE,Nhava Sheva,3072,64,"Large weight mismatch, Long port dwell time"
+C10899,96.28,Critical,Singapore,Chennai,2434,25,Normal container pattern
+C10900,72.67,Critical,USA,Kolkata,1996,24,Normal container pattern
+C10901,30.48,Low,Germany,Kolkata,2395,12,Normal container pattern
+C10902,82.94,Critical,USA,Nhava Sheva,189,18,Normal container pattern
+C10903,28.15,Low,India,Nhava Sheva,504,15,Normal container pattern
+C10904,87.28,Critical,UAE,Chennai,1214,27,Normal container pattern
+C10905,11.26,Low,Japan,Chennai,1531,72,Long port dwell time
+C10906,70.37,Critical,Singapore,Mumbai,3440,60,"Large weight mismatch, Long port dwell time"
+C10907,54.07,Low,UAE,Kolkata,3480,46,Large weight mismatch
+C10908,9.65,Low,China,Kolkata,823,17,Normal container pattern
+C10909,24.19,Low,Singapore,Nhava Sheva,928,53,Long port dwell time
+C10910,1.24,Low,UAE,Mumbai,933,8,Normal container pattern
+C10911,46.88,Low,Germany,Kolkata,1140,79,Long port dwell time
+C10912,30.13,Low,Singapore,Mumbai,133,27,Normal container pattern
+C10913,59.84,Low,Singapore,Mumbai,2105,46,Normal container pattern
+C10914,29.72,Low,USA,Nhava Sheva,3627,50,"Large weight mismatch, Long port dwell time"
+C10915,29.99,Low,Germany,Mumbai,684,71,Long port dwell time
+C10916,74.32,Critical,China,Chennai,2719,3,Large weight mismatch
+C10917,4.81,Low,Japan,Chennai,2220,64,Long port dwell time
+C10918,90.29,Critical,India,Mundra,1852,44,Normal container pattern
+C10919,85.23,Critical,UAE,Nhava Sheva,814,53,Long port dwell time
+C10920,66.78,Low,USA,Mundra,1172,24,Normal container pattern
+C10921,59.32,Low,UAE,Chennai,79,60,Long port dwell time
+C10922,89.23,Critical,China,Mundra,2933,3,Large weight mismatch
+C10923,18.53,Low,China,Nhava Sheva,3284,20,Large weight mismatch
+C10924,7.9,Low,Singapore,Nhava Sheva,202,46,Normal container pattern
+C10925,23.95,Low,India,Mumbai,2811,15,Large weight mismatch
+C10926,79.46,Critical,China,Kolkata,1252,25,Normal container pattern
+C10927,3.47,Low,UAE,Mumbai,1699,78,Long port dwell time
+C10928,58.28,Low,Germany,Nhava Sheva,1250,71,Long port dwell time
+C10929,99.54,Critical,Germany,Chennai,1682,17,Normal container pattern
+C10930,85.57,Critical,Singapore,Chennai,1555,9,Normal container pattern
+C10931,52.14,Low,Japan,Mumbai,3512,38,Large weight mismatch
+C10932,6.36,Low,UAE,Nhava Sheva,3473,48,Large weight mismatch
+C10933,83.14,Critical,UAE,Chennai,2094,60,Long port dwell time
+C10934,59.9,Low,China,Nhava Sheva,1256,63,Long port dwell time
+C10935,11.49,Low,India,Chennai,3376,2,Large weight mismatch
+C10936,9.39,Low,UAE,Nhava Sheva,1549,72,Long port dwell time
+C10937,90.96,Critical,USA,Mundra,1166,11,Normal container pattern
+C10938,66.92,Low,Japan,Nhava Sheva,3486,64,"Large weight mismatch, Long port dwell time"
+C10939,82.93,Critical,China,Nhava Sheva,3584,77,"Large weight mismatch, Long port dwell time"
+C10940,87.9,Critical,USA,Mumbai,1396,72,Long port dwell time
+C10941,57.18,Low,Singapore,Mundra,3637,21,Large weight mismatch
+C10942,51.74,Low,Germany,Kolkata,3957,18,Large weight mismatch
+C10943,43.04,Low,Singapore,Mumbai,3330,64,"Large weight mismatch, Long port dwell time"
+C10944,31.69,Low,Germany,Kolkata,2703,38,Large weight mismatch
+C10945,43.46,Low,Singapore,Chennai,470,32,Normal container pattern
+C10946,77.39,Critical,UAE,Kolkata,3018,11,Large weight mismatch
+C10947,60.19,Low,USA,Nhava Sheva,1035,45,Normal container pattern
+C10948,89.25,Critical,Germany,Kolkata,1353,33,Normal container pattern
+C10949,44.34,Low,China,Mumbai,2783,41,Large weight mismatch
+C10950,60.71,Low,USA,Mumbai,2831,8,Large weight mismatch
+C10951,63.13,Low,China,Kolkata,967,11,Normal container pattern
+C10952,59.17,Low,USA,Mumbai,357,51,Long port dwell time
+C10953,70.26,Critical,USA,Mumbai,3019,41,Large weight mismatch
+C10954,23.74,Low,Singapore,Kolkata,3479,17,Large weight mismatch
+C10955,51.24,Low,Germany,Mundra,667,76,Long port dwell time
+C10956,10.42,Low,Germany,Mundra,372,46,Normal container pattern
+C10957,38.45,Low,India,Chennai,1031,32,Normal container pattern
+C10958,48.77,Low,USA,Mumbai,1145,79,Long port dwell time
+C10959,65.22,Low,UAE,Kolkata,1371,54,Long port dwell time
+C10960,95.05,Critical,UAE,Mumbai,2723,20,Large weight mismatch
+C10961,60.07,Low,China,Nhava Sheva,89,33,Normal container pattern
+C10962,74.36,Critical,China,Mumbai,3719,74,"Large weight mismatch, Long port dwell time"
+C10963,50.63,Low,Singapore,Mumbai,2745,40,Large weight mismatch
+C10964,63.41,Low,USA,Mundra,3387,32,Large weight mismatch
+C10965,7.09,Low,China,Kolkata,3249,2,Large weight mismatch
+C10966,25.44,Low,China,Mumbai,539,33,Normal container pattern
+C10967,36.19,Low,Japan,Mundra,2779,77,"Large weight mismatch, Long port dwell time"
+C10968,47.25,Low,USA,Chennai,868,30,Normal container pattern
+C10969,4.56,Low,Singapore,Mundra,40,33,Normal container pattern
+C10970,14.0,Low,China,Mundra,739,77,Long port dwell time
+C10971,27.68,Low,Singapore,Mundra,3775,26,Large weight mismatch
+C10972,97.15,Critical,Germany,Mumbai,1946,22,Normal container pattern
+C10973,33.13,Low,Singapore,Mumbai,2549,66,"Large weight mismatch, Long port dwell time"
+C10974,48.2,Low,UAE,Chennai,3006,38,Large weight mismatch
+C10975,19.61,Low,UAE,Nhava Sheva,3216,46,Large weight mismatch
+C10976,61.08,Low,Singapore,Nhava Sheva,1224,15,Normal container pattern
+C10977,28.07,Low,UAE,Nhava Sheva,928,44,Normal container pattern
+C10978,20.7,Low,Germany,Chennai,2036,49,Long port dwell time
+C10979,51.66,Low,USA,Nhava Sheva,3795,75,"Large weight mismatch, Long port dwell time"
+C10980,0.55,Low,UAE,Nhava Sheva,2508,61,"Large weight mismatch, Long port dwell time"
+C10981,0.77,Low,UAE,Mundra,2779,67,"Large weight mismatch, Long port dwell time"
+C10982,21.91,Low,Singapore,Mumbai,2799,6,Large weight mismatch
+C10983,3.67,Low,Germany,Mumbai,924,9,Normal container pattern
+C10984,10.8,Low,India,Mundra,2956,6,Large weight mismatch
+C10985,33.89,Low,India,Mundra,1581,73,Long port dwell time
+C10986,80.26,Critical,India,Mundra,3618,32,Large weight mismatch
+C10987,57.2,Low,India,Mumbai,3324,41,Large weight mismatch
+C10988,51.27,Low,USA,Nhava Sheva,389,76,Long port dwell time
+C10989,29.35,Low,Singapore,Mundra,1617,8,Normal container pattern
+C10990,93.18,Critical,Singapore,Chennai,2930,72,"Large weight mismatch, Long port dwell time"
+C10991,39.7,Low,Japan,Mundra,255,50,Long port dwell time
+C10992,8.71,Low,Germany,Kolkata,708,62,Long port dwell time
+C10993,61.71,Low,India,Mundra,1838,62,Long port dwell time
+C10994,11.38,Low,USA,Mumbai,1944,7,Normal container pattern
+C10995,34.52,Low,Germany,Mundra,2497,75,Long port dwell time
+C10996,50.74,Low,India,Kolkata,9,4,Normal container pattern
+C10997,87.42,Critical,USA,Chennai,2871,6,Large weight mismatch
+C10998,49.35,Low,Germany,Nhava Sheva,797,58,Long port dwell time
+C10999,70.23,Critical,Singapore,Mundra,3313,22,Large weight mismatch
