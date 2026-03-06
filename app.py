@@ -58,12 +58,6 @@ col3.metric(
     "Average Risk Score",
     round(filtered_df["Risk_Score"].mean(),2)
 )
-
-# -----------------------------
-# Risk Distribution Chart
-# -----------------------------
-st.subheader("Risk Level Distribution")
-
 # -----------------------------
 # Risk Distribution Chart
 # -----------------------------
@@ -89,8 +83,7 @@ risk_chart.update_layout(
     title_x=0.35,
     showlegend=True
 )
-
-st.plotly_chart(risk_chart, use_container_width=True, key="risk_pie")
+st.plotly_chart(risk_chart, width="stretch", key="risk_distribution_chart")
 
 # -----------------------------
 # Risk Score Histogram
@@ -112,7 +105,7 @@ hist_chart.update_layout(
     bargap=0.05
 )
 
-st.plotly_chart(hist_chart, use_container_width=True, key="risk_hist")
+st.plotly_chart(hist_chart, width="stretch", key="risk_score_histogram")
 
 # -----------------------------
 # Top Suspicious Containers
@@ -150,3 +143,4 @@ if container_id:
 st.subheader("All Container Records")
 
 st.dataframe(filtered_df)
+
