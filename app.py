@@ -64,63 +64,56 @@ col3.metric(
 # -----------------------------
 st.subheader("Risk Level Distribution")
 
-st.subheader("📊 Container Risk Distribution")
+# -----------------------------
+# Risk Distribution Chart
+# -----------------------------
+st.subheader("Risk Level Distribution")
 
-risk_counts = filtered_df["Risk_Level"].value_counts().reset_index()
-risk_counts.columns = ["Risk_Level", "Count"]
-
-risk_chart = px.bar(
-    risk_counts,
-    x="Risk_Level",
-    y="Count",
+risk_chart = px.pie(
+    filtered_df,
+    names="Risk_Level",
+    title="Container Risk Distribution",
     color="Risk_Level",
-    text="Count",
-    title="Risk Level Distribution"
+    color_discrete_map={
+        "Low": "#4CAF50",
+        "Critical": "#FF4B4B"
+    }
 )
 
-st.plotly_chart(risk_chart, use_container_width=True)
+risk_chart.update_traces(
+    textposition="inside",
+    textinfo="percent+label"
+)
 
-st.plotly_chart(risk_chart, use_container_width=True)
+risk_chart.update_layout(
+    title_x=0.35,
+    showlegend=True
+)
+
+st.plotly_chart(risk_chart, use_container_width=True, key="risk_pie")
 
 # -----------------------------
 # Risk Score Histogram
 # -----------------------------
 st.subheader("Risk Score Distribution")
 
-st.subheader("📈 Risk Score Categories")
-
-bins = [0,20,40,60,80,100]
-labels = ["0-20","20-40","40-60","60-80","80-100"]
-
-filtered_df["Risk_Range"] = pd.cut(
-    filtered_df["Risk_Score"],
-    bins=bins,
-    labels=labels
-)
-
-range_counts = filtered_df["Risk_Range"].value_counts().sort_index().reset_index()
-range_counts.columns = ["Risk_Range","Containers"]
-
-range_chart = px.bar(
-    range_counts,
-    x="Risk_Range",
-    y="Containers",
-    text="Containers",
-    title="Risk Score Distribution"
-)
-
-st.plotly_chart(range_chart, use_container_width=True)
-st.subheader("🌍 High Risk Containers by Country")
-
-country_chart = px.bar(
+hist_chart = px.histogram(
     filtered_df,
-    x="Origin_Country",
-    y="Risk_Score",
-    color="Risk_Level",
-    title="Risk Score by Country"
+    x="Risk_Score",
+    nbins=25,
+    title="Risk Score Distribution",
+    color_discrete_sequence=["#1f77b4"]
 )
 
-st.plotly_chart(country_chart, use_container_width=True)
+hist_chart.update_layout(
+    title_x=0.35,
+    xaxis_title="Risk Score",
+    yaxis_title="Number of Containers",
+    bargap=0.05
+)
+
+st.plotly_chart(hist_chart, use_container_width=True, key="risk_hist")
+
 # -----------------------------
 # Top Suspicious Containers
 # -----------------------------
